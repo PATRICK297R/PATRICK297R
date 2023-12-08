@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.youtube.com/c/Patrick297R"><img src="pepe.jpg" alt="edisonlee55 Banner"></a>
+  <a href="https://www.youtube.com/c/Patrick297R"><img src="pepe.jpg" height="200px" weight="300px" alt="PP Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://www.youtube.com/c/Patrick297R">Patrick</a>!</h1>
